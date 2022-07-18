@@ -10,5 +10,7 @@ public class Main {
 		System.out.println(solares.toString());
 		System.out.println(garajes.toString());
 		
+		System.out.println("Prueba1");
+		
 	}
 }
